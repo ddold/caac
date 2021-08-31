@@ -1,0 +1,17 @@
+# This file was edited by Cloudbees Feature Management
+type: experiment
+description: Flag created on the cli
+labels:
+  - a
+  - b
+  - c
+flag: abc
+platforms:
+  - name: Production
+    flag: flag_platform_name
+    conditions:
+      - value: true
+    value: false
+conditions:
+  - value: false
+value: false
