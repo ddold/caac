@@ -1,3 +1,4 @@
 type: experiment
 flag: test
 value: false
+description: This is just a plain ole description
