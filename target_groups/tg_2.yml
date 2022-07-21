@@ -1,8 +1,0 @@
-type: target-group
-name: tg_2
-description: asdfsadf
-conditions:
-  - operator: in-array
-    property: Bar
-    operand:
-      - s

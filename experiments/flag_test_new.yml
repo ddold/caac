@@ -1,8 +1,0 @@
-# This file was edited by Cloudbees Feature Management
-type: experiment
-flag: flag_test_new
-conditions:
-  - group:
-      name: tg
-    value: false
-value: false
