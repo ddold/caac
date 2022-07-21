@@ -1,4 +1,3 @@
-flag: namespace.abc
 type: experiment
-name: start of alphabet
+flag: test
 value: false
