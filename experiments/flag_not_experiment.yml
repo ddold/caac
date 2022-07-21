@@ -1,4 +1,3 @@
 type: experiment
-flag: new_flag
+flag: flag_not_experiment
 value: false
-description: something something dark side
